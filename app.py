@@ -13,4 +13,4 @@ if button2:
   built = 1
 if button3:
   built = 1
-st.write(button)
+st.write(built)
